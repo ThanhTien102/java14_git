@@ -15,4 +15,7 @@
     - `git commit -m 'noit dung comit'`: chụp màn hình code ở thời điểm thao tác  
 - Step 3:
     - `git push -u origin <ten_branch`: chạy lần đầu tiên
-    - `git push`: 
+    - `git push`: chạy những lần còn lại
+    ## Đăng nhập
+    - Usẻname: admin
+    - Password: 12345
